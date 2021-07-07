@@ -30,13 +30,8 @@ Nine year US Army combat Veteran Full stack enginneer who is passionate about co
 </br>
 </br>
 
-  <a href='https://profile.codersrank.io/user/jhgarrett/'>
- <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=jhgarrett&badges=3&show-avatar=true&branding=false&width=820"
-/>
-</a>
-</br>
-</br>
+
+
 
 ## Design
 <img align="left" img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
@@ -47,13 +42,14 @@ Nine year US Army combat Veteran Full stack enginneer who is passionate about co
 <img align="left"  alt="Sketch" src="https://img.shields.io/badge/Sketch-%23F7B500.svg?style=for-the-badge&amp;logo=Sketch&amp;logoColor=000"/>
 </br>
 </br>
-</br>
-</br>
 
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
   <br/>
   <a href='https://profile.codersrank.io/user/jhgarrett/'>
+    <img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=jhgarrett&badges=3&show-avatar=true&branding=false&width=820"
+/>
    
 <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=jhgarrett&skills=Vue,C%2B%2B,C%23,SCSS,Svelte,C,CSS,Batchfile,HTML,JSON,JavaScript,OpenEdgeABL,Shell,TypeScript,CoffeeScript,PHP,SCSS,SASS&show-other-skills=true&width=820"
