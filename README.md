@@ -3,8 +3,9 @@ Nine year US Army combat Veteran Full stack enginneer who is passionate about co
 
 
 - 🔭 I’m currently working on multiple frontend and backend project using React, JS, TypeScript, PHP and C#.
-- 🌱 I’m currently learning design patterns in depth and Python 🐍
-- 📫 How to reach me: <a href="mailto:jhgarrett1@icloud.com?Subject=Hello%20John">jhgarrett1@icloud.com</a> or <a rel="me" href="https://johngarrett.dev">johngarrett.dev</a>
+- 🌱 I’m currently learning Python 🐍
+- 📫 How to reach me: <a href="mailto:jhgarrett1@icloud.com?Subject=Hello%20John">jhgarrett1@icloud.com</a>
+- 💻 See my work @ <a rel="me" href="https://johngarrett.dev">johngarrett.dev</a>
 - ⚡ Passionate about frontend design.
 
 
@@ -42,6 +43,9 @@ Nine year US Army combat Veteran Full stack enginneer who is passionate about co
 <img align="left"  alt="Sketch" src="https://img.shields.io/badge/Sketch-%23F7B500.svg?style=for-the-badge&amp;logo=Sketch&amp;logoColor=000"/>
 </br>
 </br>
+</br>
+</br>
+
 
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
@@ -56,7 +60,6 @@ Nine year US Army combat Veteran Full stack enginneer who is passionate about co
   <img
     src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=jhgarrett&skills=Vue,C%2B%2B,C%23,SCSS,Svelte,C,CSS,Batchfile,HTML,JSON,JavaScript,OpenEdgeABL,Shell,TypeScript,CoffeeScript,PHP,SCSS,SASS&show-other-skills=true&width=820"
   />
-</br>
   
   </a>
 
