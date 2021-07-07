@@ -50,10 +50,12 @@ Nine year US Army combat Veteran Full stack enginneer who is passionate about co
     <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=jhgarrett&badges=3&show-avatar=true&branding=false&width=820"
 />
+  </br>
+  </br>
    
-<img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=jhgarrett&skills=Vue,C%2B%2B,C%23,SCSS,Svelte,C,CSS,Batchfile,HTML,JSON,JavaScript,OpenEdgeABL,Shell,TypeScript,CoffeeScript,PHP,SCSS,SASS&show-other-skills=true&width=820"
-/>
+  <img
+    src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=jhgarrett&skills=Vue,C%2B%2B,C%23,SCSS,Svelte,C,CSS,Batchfile,HTML,JSON,JavaScript,OpenEdgeABL,Shell,TypeScript,CoffeeScript,PHP,SCSS,SASS&show-other-skills=true&width=820"
+  />
 </br>
   
   </a>
