@@ -44,7 +44,6 @@ Nine year US Army combat Veteran Full stack enginneer who is passionate about co
 <img align="left" alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img align="left"alt="Material UI" src="https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white"/>
 <img align="left" alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-<img align="left"  alt="Adobe XD" src="https://img.shields.io/badge/adobexd-%23FF26BE.svg?style=for-the-badge&logo=adobexd&logoColor=white"/>
 <img align="left"  alt="Sketch" src="https://img.shields.io/badge/Sketch-%23F7B500.svg?style=for-the-badge&amp;logo=Sketch&amp;logoColor=000"/>
 </br>
 </br>
