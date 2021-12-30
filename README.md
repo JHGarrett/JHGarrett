@@ -1,5 +1,5 @@
 ### Hi there <a href="https://www.johngarrett.dev/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-Nine year US Army combat Veteran Full stack enginneer with a front end focus who is passionate about coding and technology living in Austin, TX.
+Eight year US Army combat Veteran Full stack enginneer with a front end focus who is passionate about coding and technology living in Austin, TX.
 
 
 - 🔭 I’m currently working on multiple frontend and backend project using React, JS, TypeScript, PHP and C#.
