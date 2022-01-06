@@ -3,7 +3,7 @@ Eight year US Army combat Veteran Full stack enginneer with a front end focus wh
 
 
 - 🔭 I’m currently working on multiple frontend and backend project using React, JS, TypeScript, PHP and C#.
-- 🌱 I’m currently learning Python 🐍
+- 🌱 I’m currently learning Redux
 - 📫 How to reach me: <a href="mailto:jhgarrett1@icloud.com?Subject=Hello%20John">jhgarrett1@icloud.com</a>
 - 💻 See my work @ <a rel="me" href="https://johngarrett.dev">johngarrett.dev</a> or 👨‍🎨 my frontend designs @ <a rel="me" href="https://codepen.io/jhgarrett">My CodePen</a>
 - ⚡ Passionate about frontend design.
