@@ -5,13 +5,13 @@ Eight year US Army combat Veteran Full stack enginneer with a front end focus wh
 - 🔭 I’m currently adjusting to my new role @ Care.com.
 - 🌱 I’m currently learning Svelte
 - 📫 How to reach me: <a href="mailto:jhgarrett1@icloud.com?Subject=Hello%20John">jhgarrett1@icloud.com</a>
-- 💻 See my work @ <a rel="me" href="https://johngarrett.dev">johngarrett.dev</a> or 👨‍🎨 my frontend designs @ <a rel="me" href="https://codepen.io/jhgarrett">My CodePen</a>
+- 💻 See my work @ <a target="_blank" href="https://johngarrett.dev">johngarrett.dev</a> or 👨‍🎨 my frontend designs @ <a rel="me" href="https://codepen.io/jhgarrett">My CodePen</a>
 - ⚡ Passionate about frontend design.
 
-
-</br>
 ## Listen to some chill music with me
 - 🔊 @ <a rel="music-player" href="https://musicplayer-dusky.vercel.app">Chill hop player</a>
+
+</br>
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/johnhenrygarrett/)
