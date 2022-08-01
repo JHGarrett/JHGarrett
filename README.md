@@ -1,8 +1,7 @@
 ### Hi there <a href="https://www.johngarrett.dev/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-Eight year US Army infantry combat Veteran Full stack enginneer with a front end focus who is passionate about coding and technology living in Austin, TX.
+Nine year US Army infantry combat Veteran Full stack enginneer with a front end focus who is passionate about coding and technology living in Austin, TX.
 
 
-- 🔭 I’m currently adjusting to my new role @ Care.com.
 - 🌱 I’m currently learning Svelte
 - 📫 How to reach me: <a href="mailto:jhgarrett1@icloud.com?Subject=Hello%20John">jhgarrett1@icloud.com</a>
 - 💻 See my work @ <a target="_blank" rel="noopener noreferrer" href="https://johngarrett.dev">johngarrett.dev</a> or 👨‍🎨 my frontend designs @ <a href="https://codepen.io/jhgarrett" target="_blank" rel="noopener noreferrer">My CodePen</a>
